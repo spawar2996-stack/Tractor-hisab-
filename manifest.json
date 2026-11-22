@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Tractor Hisab Pro",
+  "orientation": "any",
+  "scope": "/Tractor-hisab-/",
+  "short_name": "TractorHisab",
+  "start_url": "/Tractor-hisab-/",
+  "theme_color": "#1d6fd6",
+  "id": "Tractor-hisab-pro",
+  "description": "Tractor work, diesel expense and kisan khata ledger"
+}
