@@ -1,13 +1,19 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Tractor Hisab Pro",
-  "orientation": "any",
-  "scope": "/Tractor-hisab-/",
+  "name": "ट्रैक्टर हिसाब प्रो | Tractor Hisab Pro",
   "short_name": "TractorHisab",
-  "start_url": "/Tractor-hisab-/",
+  "description": "Tractor work, diesel expense and kisan khata ledger",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
   "theme_color": "#1d6fd6",
-  "id": "Tractor-hisab-pro",
-  "description": "Tractor work, diesel expense and kisan khata ledger"
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "Mahindra Novo 605 DI PS_Meta.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
